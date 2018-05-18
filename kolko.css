@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+
+	main{
+	 width:500px;
+	 height:400px;
+	 }
+	 table{
+		 position: absolute;
+		 top: 40px;
+		 left: 30px;
+	 }
+.border{
+  border: 2px solid black;
+}
+.letters{
+	width:100px;
+	height:20px;
+	display:inline-block;
+	text-align:center;
+}
+.numbers{
+	width:20px;
+	height:50px;
+	text-align:center;
+	top: 20px;
+    position: relative;
+}
+td{
+	width:100px;
+	height:50px;
+}
+button{
+	position: relative;
+    top: 40px;
+    left: 30px;
+}
+}
